@@ -1,0 +1,2 @@
+1) tools to use git operations in a user-friendly manner
+2) significance of option -u, origin, master in git push command
