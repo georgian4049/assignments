@@ -1,0 +1,7 @@
+1)SmartGit
+Kraken
+Fork
+tig
+TortoiseGit
+gmaster
+2) -u is used for uplink of local repo to remote repo
